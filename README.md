@@ -29,9 +29,9 @@ A cinematic 3D spiral image gallery hero built with **Three.js**, **GLSL shaders
 
 ## Getting started
 
+```bash
+
 cd 3D-threejs-spiral-gallery
 npm install
 npm run dev
-
-```bash
 
